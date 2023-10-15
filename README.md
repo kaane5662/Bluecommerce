@@ -1,12 +1,12 @@
 # Bluecommerce
 Full Stack Eccomerce Platform using Javascript, NextJS, React, MongoDB, JWT, Stripe, TailwindCSS, Redux, Nodemailer, BcyrptJS, and NodeJS.
-<em>Please check the master branch for the source code</em>
+<em><br>Please check the master branch for the source code</em>
 ## Features
-- Account and authenication system
+- Account and authentication system
 - Verification and reset password sessions
 - Animated dashboard and login
 - Dynamically routed product pages
 - Cart system and ability to see purchased items
 - Dynamically refreshing search page with filters
-- Checkout system and ability to purchase products seperatley
-- Hashed Passwords in Database
+- Checkout system and ability to purchase products separately
+- Hashed Passwords in the Database
