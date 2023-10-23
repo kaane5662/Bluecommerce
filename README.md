@@ -10,3 +10,6 @@ Full Stack Eccomerce Platform using Javascript, NextJS, React, MongoDB, JWT, Str
 - Dynamically refreshing search page with filters
 - Checkout system and ability to purchase products separately
 - Hashed Passwords in the Database
+
+## Video
+https://drive.google.com/file/d/1ER8KGDp69z7QgYHpaNgEG2zjR29M2OzU/view?usp=sharing
